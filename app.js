@@ -1,5 +1,5 @@
-Criando o arquivo principal
-Conteúdo do arquivo:
+// Criando o arquivo principal
+// Conteúdo do arquivo:
 
 // Aplicação simples para demonstrar CI/CD
 
@@ -54,5 +54,3 @@ if (typeof module !== 'undefined' && module.exports) {
 }
 
 console.log('Aplicação carregada com sucesso!');
-
-----------------
